@@ -1,0 +1,25 @@
+{
+  "name": "compare-cloud-formation-deployments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregtorrington/cdk-script-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregtorrington/cdk-script-test/issues"
+  },
+  "homepage": "https://github.com/gregtorrington/cdk-script-test#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
